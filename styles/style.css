@@ -19,6 +19,7 @@
 }
 .text-align{
   text-align: center;
+  font-size: 30px;
 }
 .btn-primary {
   background-color: #FD6E0A;
@@ -142,4 +143,25 @@ main{
 }
 .resume-experience{
   margin-left: 50px;
+}
+.education-sub-title, .education-description, .experience-sub-title, .experience-description{
+  color: rgb(117, 117, 117);
+  margin: 10px 0;
+}
+.education-description, .experience-description{
+  font-size: 13px;
+} 
+.education-sub-title, .experience-sub-title{
+  font-size: 15px;
+}
+.education-title, .experience-title{
+  margin: 7px 0;
+}
+.resume-education-content, .resume-experience-content{
+  padding: 10px 0;
+}
+.download-btn{
+  display: flex;
+  justify-content: center;
+  margin: 30px 0;
 }
