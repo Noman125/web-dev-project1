@@ -135,3 +135,11 @@ main{
   font-size: 12px;
 }
 /* End What i do Styles */
+
+/* Start Resume Styles */
+.resume-container{
+  display: flex;
+}
+.resume-experience{
+  margin-left: 50px;
+}
